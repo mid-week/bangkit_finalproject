@@ -2,7 +2,10 @@
 Repository for Bangk!t Final Project    
 
 IMAGE RECOGNITION USING CNN - Edible wild plant    
-Aldo L. Irfiansyah, M. Aji Muharrom, Nikita Setyagar (JKT1-D)  
+(JKT1-D)
+1. Aldo L. Irfiansyah
+2. M. Aji Muharrom 
+3. Nikita Setyagar   
 
 
 ## Links
