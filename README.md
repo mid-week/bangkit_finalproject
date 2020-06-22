@@ -1,6 +1,8 @@
 # bangkit_finalproject
-Repository for Bangk!t Final Project
-IMAGE RECOGNITION USING CNN - Edible wild plant
+Repository for Bangk!t Final Project    
+IMAGE RECOGNITION USING CNN - Edible wild plant   
+Aldo L. Irfiansyah, M. Aji Muharrom, Nikita Setyagar (JKT1-D)  
+
 
 ## Links
 - Dataset : https://www.kaggle.com/gverzea/edible-wild-plants
@@ -17,3 +19,5 @@ Please find our presentation video here :
 
 ## Slide Presentation
 Here is the link for our presentation used in the video : https://docs.google.com/presentation/d/1Rb_VoU3plJIHrfB4orz9S8Dfr1S9MJf1XIHqKAU-b3k/edit?usp=sharing
+
+
